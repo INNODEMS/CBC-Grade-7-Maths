@@ -393,6 +393,25 @@
         </p>
       </solution>
     </example>
+    <example>
+  <statement>
+    <p>
+     When Daven fell sick ,her temperature rose to <m>39.5 ^\circ C</m>. What was her temperaturein Kelvin?
+    </p>
+  </statement>
+  <solution>
+    <p>
+      <md>
+        <mrow>K = \amp ^\circ C  </mrow>
+        <mrow> = \amp (273 + 39.5)</mrow>
+        <mrow> = \amp 311.5K </mrow>
+      </md>
+    </p>
+  </solution>
+</example>
+<p>
+<m>{\color{magenta}Converting temperature in Kelvin to degrees Celsius.}</m>
+</p>
     <activity label="matching-dates">
   <title>Matching Problem, Dates</title>
   <idx>matching US dates</idx>
@@ -436,5 +455,87 @@
   </match>
   </matches>
 </activity>
+<p>
+  <m>{\color{magenta}To convert temperature from Kelvin to Degrees celsius, subtract 273 from the temperaturein Kelvin. }</m>
+</p>
+<example>
+  <statement>
+    <p>
+      Convert 472 Kelvin to degree Celsius.
+    </p>
+  </statement>
+  <solution>
+    <p>
+      <md>
+        <mrow>^\circ C = \amp K - 273  , where K is 472 in our question.</mrow> 
+        <mrow> = \amp (472 - 273)^\circ C</mrow>
+        <mrow> 472K = \amp 199 ^\circ C </mrow>
+      </md>
+    </p>
+  </solution>
+</example>
+<example>
+  <statement>
+    <p>
+      The temperature of Tana River town was 292K on Saturday .What was the temperature in degrees Celsius?
+    </p>
+  </statement>
+  <solution>
+    <p>
+      <md>
+        <mrow>^\circ C = \amp K - 273  , where K is 292 in our question.</mrow> 
+        <mrow> = \amp (292 - 273)^\circ C</mrow>
+        <mrow> 292K = \amp 19 ^\circ C </mrow>
+      </md>
+    </p>
+  </solution>
+</example>
+<p>
+  <m>{\color{magenta}\text {Temperature in degrees Celsius and Kelvin.}}</m>
+</p>
+<activity>
+  <statement>
+    <p>
+          When the temperature rises, it’s like the sun giving the Earth a big, warm hug! ☀️🔥</p>
+    <p>When the temperature falls, it’s like the Earth wrapping itself in a cold, cozy blanket of air. ❄️🧊</p>
+    <p>On a hot day, the ground feels like a heated pan, but on a cold day, it feels like stepping on ice! </p>
+    <p>If the temperature rises too much, ice cream melts into a puddle. If it drops too much, water turns into ice! 🍦🧊</p>
+    <p>In the summer, it’s like the sun turns up the heat in nature’s oven. In the winter, it dials the temperature way down! 🔥❄️</p>
+    <p>Think of the temperature like a roller coaster—it goes up when it’s hot and down when it’s cold! 🎢🌡️</p>
+  </statement>
+</activity>
+<example>
+  <statement>
+    <p>
+      The temperature of milk in a container was <m>26 ^\circ C</m>. The milk was heated to <m>98 ^\circ C</m>. What was the rise in temperature?
+    </p>
+  </statement>
+  <solution>
+    <p>
+      <md>
+        <mrow> \text {Initial temperature} =\amp 26 ^\circ C. </mrow>
+        <mrow>\text{Final temperature} =\amp 98 ^\circ C.</mrow>
+        <mrow> \text{Temperature increase}=\amp 72 ^\circ C. </mrow>
+      </md>
+    </p>
+  </solution>
+</example>
+<example>
+  <statement>
+    <p>
+      The highest temperature reading on a thermometer was <m>27 ^\circ C</m> and the lowest was <m>6 ^\circ C</m>. By how many degrees was the highest temperature was ahead of the lowest degree reading?
+    </p>
+  </statement>
+  <solution>
+    <p>
+      <md>
+        <mrow> \text {Highest temperature reading} =\amp 27 ^\circ C. </mrow>
+        <mrow>\text{Lowest reading temperature} =\amp 6 ^\circ C.</mrow>
+        <mrow> \text{Temperature difference}=\amp 21 ^\circ C. </mrow>
+      </md>
+    </p>
+  </solution>
+</example>
   </subsection>
+
 </section>
