@@ -5,22 +5,74 @@
 
   <introduction>
 
-    <p> <em>Introduction </em></p>
+    <p>
+      <em><term>Introduction to Algebra.</term></em>
+    </p>
 
-    <p> Algebra is a part of mathematics in which letters and other general symbols are used to represent numbers and quantities in formulae and equations.</p>
+    <p>
+      Have you ever tried to solve a puzzle where you have to find a missing piece? 
+      Algebra is like a mathematical puzzle where we use symbols, usually letters, to represent unknown numbers. 
+      It helps us express patterns, solve problems, and understand relationships between numbers.
+    </p>
 
-      <p>
-        Algebra is a branch of math where we use letters (like <m>a</m>, <m>b</m>, <m>x</m>, <m>y</m>... ) to stand for numbers that we don't know yet.
-      </p>
-      <p>
-        These letters are called variables.
-      </p>
-        <p>
-        <term>Why Learn Algebra?</term>
-      </p>
-      <p>
-        The goal in algebra is to find out what number the letter (variable) represents by solving a problem or equation.
-      </p>
+    <p>
+      <em><term>What is Algebra?</term></em>
+    </p>
+
+    <p>
+      Algebra is a branch of mathematics that uses letters and symbols to represent numbers and operations. 
+      Instead of writing only numbers, we use variables like <m>x, y</m>, or <m>z</m> to stand for unknown values. 
+      For example, in the equation:
+    </p>
+
+    <p>
+      <me>2x + 3 = 7</me>
+    </p>
+
+    <p>
+      The letter <m>x</m> is a variable, meaning it can change. 
+      In this case, we can find its value by solving the equation:
+    </p>
+
+    <p>
+      <me>x = 12 -5 = 7</me>
+    </p>
+
+    <p>
+      <em><term>Why is Algebra Important?</term></em>
+    </p>
+
+    <p>
+      Algebra is useful in many real-life situations, such as:
+    </p>
+
+    <p>
+      <ul>
+        <li>
+          <p>
+            <term>Problem Solving:</term> Algebra helps us solve complex problems by breaking them down into smaller, more manageable parts.
+          </p>
+        </li>
+
+        <li>
+          <p>
+            <term>Patterns and Relationships:</term> Algebra helps us identify patterns and relationships between numbers, making it easier to predict outcomes.
+          </p>
+        </li>
+
+        <li>
+          <p>
+            <term>Shopping</term>: If a shirt costs Kshs <m>p</m> dollars and you buy <m>3</m> shirts, the total cost is <m>3p</m> dollars.
+          </p>
+        </li>
+
+        <li>
+          <p>
+            <term>Traveling</term>: If a car moves at a speed of <m>s</m> km per hour, the distance traveled in <m>t</m> hours is <m>s \times t</m> km.
+          </p>
+        </li>
+      </ul>  
+    </p>
 
       <p>
          Watch this! 
