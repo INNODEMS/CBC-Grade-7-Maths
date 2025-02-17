@@ -5,6 +5,7 @@
 
   <introduction>
 
+<<<<<<< HEAD
     <p>
       <em><term>Introduction to Algebra.</term></em>
     </p>
@@ -13,6 +14,14 @@
       Have you ever tried to solve a puzzle where you have to find a missing piece? 
       Algebra is like a mathematical puzzle where we use symbols, usually letters, to represent unknown numbers. 
       It helps us express patterns, solve problems, and understand relationships between numbers.
+=======
+    <p> 
+      <em>Introduction </em>
+    </p>
+
+    <p> 
+      Algebra is a part of mathematics in which letters and other general symbols are used to represent numbers and quantities in formulae and equations.
+>>>>>>> main
     </p>
 
     <p>
@@ -83,11 +92,11 @@
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="Sections/sec-Algebraic-expressions.ptx" />
+  <xi:include href="sections/subsections/sec-Algebraic-expressions.ptx" />
 
     <!-- include sections -->
-    <xi:include href="./Sections/sec-Linear-equations.ptx" />
+    <xi:include href="sections/subsections/sec-Linear-equations.ptx" />
 
 <!-- include sections -->
-  <xi:include href="Sections/sec-Linear-inequalities.ptx" />
+  <xi:include href="sections/subsections/sec-Linear-inequalities.ptx" />
 </chapter>
