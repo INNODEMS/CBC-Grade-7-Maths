@@ -57,8 +57,8 @@
                             </ul>
                         </p>
                     </sidebyside>
-                <!-- </p>    -->
     </introduction>
+<<<<<<< HEAD
 
     <subsection xml:id="subsec-Squares-of-whole-numbers">
         <title>Squares of whole numbers</title>
@@ -904,4 +904,12 @@
         preview="preview_image.png"
     </subsection> -->
 
+=======
+    <xi:include href="subsections/squares-and-square-root/subsec-squares-of-whole-numbers.ptx" />
+    <xi:include href="subsections/squares-and-square-root/subsec-squares-of-fractions.ptx" />
+    <xi:include href="subsections/squares-and-square-root/subsec-squares-of-decimals.ptx" />
+    <xi:include href="subsections/squares-and-square-root/subsec-squares-roots-of-whole-numbers.ptx" />
+    <xi:include href="subsections/squares-and-square-root/subsec-square-roots-of-fractions.ptx" />
+    <xi:include href="subsections/squares-and-square-root/subsec-square-roots-of-decimals.ptx" />
+>>>>>>> origin/main
 </section>

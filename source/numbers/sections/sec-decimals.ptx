@@ -14,6 +14,7 @@
             </statement>
         </exploration>
     </introduction>
+<<<<<<< HEAD
     <subsection xml:id="subsec-place-value-of-digits-in-decimals">
         <title>place value of digits in decimals</title>
         <p>
@@ -999,4 +1000,12 @@ To find out the amount of sugar she will use, Ekadeli multiplies: amount of flou
         </exercise>
         
     </subsection>
+=======
+    <xi:include href="subsections/decimals/subsec-place-value-of-digits-in-decimals.ptx" />
+    <xi:include href="subsections/decimals/subsec-total-value-of-digits-in-decimals.ptx" />
+    <xi:include href="subsections/decimals/subsec-multiplying-decimals-by-a-whole-number.ptx" />
+    <xi:include href="subsections/decimals/subsec-multiplying-decimals-by-decimals.ptx" />
+    <xi:include href="subsections/decimals/subsec-division-of-a-decimal-by-a-whole-number.ptx" />
+    <xi:include href="subsections/decimals/subsec-division-of-a-decimal-number-by-a-decimal-number.ptx" />
+>>>>>>> origin/main
 </section>
