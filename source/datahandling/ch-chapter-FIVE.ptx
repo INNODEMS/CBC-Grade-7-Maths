@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<chapter xml:id="ch-chapter-FIVE" xmlns:xi="http://www.w3.org/2001/XInclude">
+<chapter xml:id="ch-chapter-DATA-HANDLING-AND-PROBABILITY" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>DATA HANDLING AND PROBABILITY</title>
 
   <introduction>
@@ -8,6 +8,6 @@
   </introduction>
 
   <!-- include sections -->
-  <xi:include href="Sections/sec-Data-handling.ptx" />
+  <xi:include href="Sections/sec-datahandling.ptx" />
 
 </chapter>

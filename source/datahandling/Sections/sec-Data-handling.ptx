@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="sec-datahandling" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Data handling</title>
+
+
+  <xi:include href="subsections/datahandling/subsec-meaning-of-data.ptx" /> 
+
+  <xi:include href="subsections/datahandling/subsec-collection-of-data.ptx" />
+
+  <xi:include href="subsections/datahandling/subsec-frequency-distribution-table.ptx" />
+
+  <xi:include href="subsections/datahandling/subsec-suitable-scale-for-graphs-of-data.ptx" />
+
+  <xi:include href="subsections/datahandling/subsec-pictographs-of-data.ptx" />
+
+  <xi:include href="subsections/datahandling/subsec-bar-graphs-of-data.ptx" />
+
+  <xi:include href="subsections/datahandling/subsec-pie-charts-of-data.ptx" />
+
+  <xi:include href="subsections/datahandling/subsec-interpretation-of-pie-charts.ptx" />
+
+  <xi:include href="subsections/datahandling/subsec-line-graphs-of-data.ptx" />
+
+
+
+   
+   
+   
+   
+   
+    
+    
+    
+    
+</section> 
