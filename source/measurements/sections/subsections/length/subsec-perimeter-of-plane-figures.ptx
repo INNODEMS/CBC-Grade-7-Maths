@@ -149,6 +149,9 @@
       </p>
     </solution>
   </example>
+  <exercise>
+    <stack source="questions/top/Grade-7/Measurements/3-2-Length/Working-out-the-perimeter-of-a-given-polygon-.xml" />
+</exercise>
   <exploration>
     <p>Extended activity</p>
       <sidebyside>
@@ -194,4 +197,7 @@
     <slate xml:id="triangle-t" surface="geogebra" material="gqt4ejbe" aspect="1:1" />
   </interactive>
 </figure>
+<exercise>
+    <stack source="questions/top/Grade-7/Measurements/3-2-Length/Finding-the-perimeter-of-a-given-figure.xml" />
+</exercise>
 </subsection>

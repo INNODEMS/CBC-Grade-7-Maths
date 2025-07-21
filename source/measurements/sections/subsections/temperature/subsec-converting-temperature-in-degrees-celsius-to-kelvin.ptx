@@ -47,7 +47,7 @@
     <example>
   <statement>
     <p>
-     When Daven fell sick ,her temperature rose to <m>39.5 ^\circ C</m>. What was her temperaturein Kelvin?
+     When Daven fell sick ,his temperature rose to <m>39.5 ^\circ C</m>. What was her temperaturein Kelvin?
     </p>
   </statement>
   <solution>
@@ -63,6 +63,7 @@
     </p>
   </solution>
 </example>
+
 <p>
 <m>{\color{magenta}\text{Converting temperature in Kelvin to degrees Celsius.}}</m>
 </p>
@@ -148,6 +149,7 @@
     <p>The temperature of Tana River was <m>{\color{magenta}19 ^\circ C}</m></p>
   </solution>
 </example>
+
 <p>
   <m>{\color{magenta}\text {Temperature in degrees Celsius and Kelvin.}}</m>
 </p>
@@ -208,4 +210,8 @@
     <p>The highest temperature reading of the thermometer was <m>{\color{magenta}21 ^\circ C}</m> ahead of the lowest temperature reading.</p>
   </solution>
 </example>
+<exercise>
+    <stack source="questions/top/Grade-7/Measurements/3-6-Temperature/Converting-Temperature-from-Kelvin-to-degrees-Celsius.xml" />
+</exercise>
+
   </subsection>

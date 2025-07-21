@@ -163,5 +163,11 @@
           Whenever an item is exposed to cool temperatures it becomes cool tand when boiling any substance it becomes hotter.
         </p>
       </hint>
-    </activity>  
+    </activity> 
+    <exercise>
+    <stack source="questions/top/Grade-7/Measurements/3-6-Temperature/Finding-the-change-in-Temperature-in-Degrees-Celsius-and-Kelvin-.xml" />
+</exercise> 
+<exercise>
+  <stack source="questions/top/Grade-7/Measurements/3-6-Temperature/Temperature-changes-in-water-left-outside-on-a-hot-day-.xml"/>
+</exercise>
   </subsection>   
