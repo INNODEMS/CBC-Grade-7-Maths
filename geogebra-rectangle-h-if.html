@@ -79,16 +79,16 @@ window.MathJax = {
 \newcommand{\fillinmath}[1]{\mathchoice{\colorbox{fillinmathshade}{$\displaystyle     \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\textstyle        \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\scriptstyle      \phantom{\,#1\,}$}}{\colorbox{fillinmathshade}{$\scriptscriptstyle\phantom{\,#1\,}$}}}
 \)</span></div>
 <div style="width:600px; height:600px; display: block; box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box;">
-<script>var rectangle_params = {
+<script>var ggb_rectangle_params = {
 material_id:"cvuafbec",
 width:600,
 height:600,
 };
 new Promise((resolve, reject) => {
-var rectangle = new GGBApplet(rectangle_params, true);
-resolve(rectangle);})
-.then((rectangle) => {
-window.onload = function() { rectangle.inject('rectangle-container'); }
+var ggb_rectangle = new GGBApplet(ggb_rectangle_params, true);
+resolve(ggb_rectangle);})
+.then((ggb_rectangle) => {
+window.onload = function() { ggb_rectangle.inject('rectangle-container'); }
 },
 (error) => {console.log('GGB applet load failure.', error)});
 </script><div class="geogebra-applet" id="rectangle-container" style="width:600px; height:600px; display: block; box-sizing: border-box; -moz-box-sizing: border-box; -webkit-box-sizing: border-box;"></div>
